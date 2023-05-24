@@ -1,1 +1,1 @@
-# ThymeleaftTomcatSpringWebMVC
+# ThymeleafTomcatSpringWebMVC
